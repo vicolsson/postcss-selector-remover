@@ -1,0 +1,19 @@
+{
+  "name": "postcss-selector-remover",
+  "version": "1.0.0",
+  "description": "Removes specified CSS selectors through PostCSS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicolsson/postcss-selector-remover.git"
+  },
+  "author": "Victor Olsson <https://github.com/vicolsson>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vicolsson/postcss-selector-remover/issues"
+  },
+  "homepage": "https://github.com/vicolsson/postcss-selector-remover#readme",
+  "dependencies": {
+    "postcss": "^7.0.26"
+  }
+}
