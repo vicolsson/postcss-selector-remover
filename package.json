@@ -14,6 +14,6 @@
   },
   "homepage": "https://github.com/vicolsson/postcss-selector-remover#readme",
   "dependencies": {
-    "postcss": "^7.0.26"
+    "postcss": "^8.2.10"
   }
 }
